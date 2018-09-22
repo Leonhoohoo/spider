@@ -10,3 +10,5 @@ https://www.crummy.com/software/BeautifulSoup/bs4/doc/#next-element-and-previous
 http://docs.python-requests.org/en/master/user/quickstart/
 
 https://caroleasylife.blogspot.com/2018/06/blog-post_27.html#more
+
+http://www.voidcn.com/article/p-aypykrld-qr.html
